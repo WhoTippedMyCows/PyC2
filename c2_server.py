@@ -1,7 +1,5 @@
-# Brandon White
-# Cyber Operations II
-# Dakota State University
-# Lab 10 - Firewalling and C2
+# PyC2 - Python C2 Client/Server Framework
+# Created for educational purposes only.
 
 import socket
 import ssl
