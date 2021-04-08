@@ -1,3 +1,6 @@
+# PyC2 - Python C2 Client/Server Framework
+# Created for educational purposes only.
+
 import socket
 import ssl
 from datetime import datetime
